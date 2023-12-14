@@ -1,0 +1,9 @@
+.list {
+    display: block;
+    min-width: 10em;
+    max-width: 15em;
+}
+.list option {
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
